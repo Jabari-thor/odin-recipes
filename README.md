@@ -11,3 +11,9 @@ Respectfully,
 Jabari
 
 -Lets get this learning rocking!
+
+Well I completed the recipe website.
+-----------The Recipes we have to offer are:-----------
+1. Chef's Bangin' Butter Chicken
+2. Chef's Creamy Garlic Chicken Over Rice
+3. The Trust, Good and Faithful, Chef's Old Fashioned!!!!
