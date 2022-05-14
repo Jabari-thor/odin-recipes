@@ -1,0 +1,23 @@
+* {
+  
+
+
+}
+
+section  {
+    background-color: rgb(5, 5, 46);
+    color: azure;
+
+
+}
+
+.intro,
+.outro{
+    background-color: #0a062c;
+    color: blanchedalmond;
+    text-align: center;
+    padding: 2em;
+}
+.outro.footer {
+    color: red;
+}
